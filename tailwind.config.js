@@ -7,6 +7,7 @@ export default {
         "yellow":"#F4D04E",
         "grey":"hsl(0, 0%, 50%)",
         "black-c":"hsl(0, 0%, 7%)",
+        "black-b":"#111111"
       },
       fontFamily:{
         figtree:['Figtree Variable', 'sans-serif']
