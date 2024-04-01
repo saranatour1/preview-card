@@ -3,8 +3,8 @@ const MainCard = () => {
     <svg
     className="rounded-[10px]  mb-6"
       xmlns="http://www.w3.org/2000/svg"
-      width="336"
-      height="201"
+      width="100%"
+      height="100%"
       fill="none"
       viewBox="0 0 336 201"
     >
