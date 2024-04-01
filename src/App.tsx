@@ -1,5 +1,3 @@
-import { Router, Route, Link } from "kaioken"
-import { Counter } from "./Counter"
 import '@fontsource-variable/figtree';
 import MainCard from "./Icons/MainCard";
 import Label from "./components/Label";
